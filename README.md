@@ -1,3 +1,3 @@
 ## Overview
 
-This project is clone coding project about iOS basic Calendar.
+This project is clone coding project about iOS basic calendar.
